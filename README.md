@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Sakhawat 👋
 
-<!--
-**ahmed7-lx/ahmed7-lx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Developer in Progress | 🚀 Tech Explorer
 
-Here are some ideas to get you started:
+I'm learning information technology through coding, projects, and practical experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm Learning
+
+* C & C++
+* Python & JavaScript
+* Data Structures & Algorithms
+* HTML, CSS & Web Development
+* SQL & Databases
+* Linux & Computer Networks
+* Git & GitHub
+
+### 🧠 My Approach
+
+> Learn → Build → Break → Debug → Improve 🚀
+
+I focus on understanding how things work instead of just memorizing concepts.
+
+### 🔭 Exploring
+
+* 🤖 AI & AI Agents
+* ⚙️ Automation
+* 🌐 Software Development
+* 🔐 Cyber Security
+* ☁️ Cloud & Modern Computing
+
+### 🛠️ Tools
+
+`VS Code` • `Git` • `GitHub` • `Linux`
+
+### 🚀 Projects
+
+I'm building projects while learning, including:
+
+* DSA implementations
+* C/C++ projects
+* Web applications
+* Automation tools
+* AI-based projects
+
+### 🎯 Goal
+
+To become a strong software engineer and build useful real-world products.
+
+**Learn. Build. Improve. 🚀**
