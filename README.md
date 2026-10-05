@@ -42,8 +42,7 @@ I'm building projects while learning, including:
 * Automation tools
 * AI-based projects
 
-###Repository
-(C-full-course) [https://github.com/ahmed7-lx/c-full-course]
+
 ### 🎯 Goal
 
 To become a strong software engineer and build useful real-world products.
